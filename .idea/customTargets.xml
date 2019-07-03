@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CLionExternalBuildManager">
+    <target id="420f3df4-52b4-435e-a195-7136bc409259" name="comskip" projectName="Comskip">
+      <configuration id="e62a95f4-365f-4b90-843c-8e839336b819" name="comskip">
+        <build type="TOOL">
+          <tool actionId="Tool_External Tools_make" />
+        </build>
+      </configuration>
+    </target>
+  </component>
+</project>

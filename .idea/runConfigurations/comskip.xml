@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="comskip" type="CLionExternalRunConfiguration" factoryName="Application" PROGRAM_PARAMS="foo.ts" WORKING_DIR="file://$PROJECT_DIR$/../test/comskip" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Comskip" TARGET_NAME="comskip" CONFIG_NAME="comskip" RUN_PATH="$PROJECT_DIR$/comskip">
+    <method v="2">
+      <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+    </method>
+  </configuration>
+</component>
